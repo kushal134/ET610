@@ -1,0 +1,10 @@
+Time,User full name,Event context,Component,Event name,Description,Origin,IP address
+"7/08/20, 01:20",M,Assignment: Stop motion video,Assignment,A submission has been submitted.,The user with id '6' has submitted the submission with id '7' for the assignment with course module id '34'.,web,106.207.242.117
+"7/08/20, 01:19",P,Assignment: you want everyone to read,Assignment,A submission has been submitted.,The user with id '3' has submitted the submission with id '4' for the assignment with course module id '22'.,phone,132.154.69.59
+"7/08/20, 01:18",M,Assignment: you want everyone to read,Assignment,A submission has been submitted.,The user with id '6' has submitted the submission with id '2' for the assignment with course module id '22'.,web,106.207.242.117
+"7/08/20, 01:16",P,Assignment: Stop motion video,Assignment,A submission has been submitted.,The user with id '3' has submitted the submission with id '6' for the assignment with course module id '34'.,web,132.154.69.59
+"28/07/20, 12:19",M,Workshop: Workshop on learning new language,Workshop,A submission has been uploaded.,The user with id '6' has uploaded the submission with id '2' to the workshop activity with course module id '32'.,phone,106.207.245.49
+"28/07/20, 12:18",D,Workshop: Workshop on learning new language,Workshop,A submission has been uploaded.,The user with id '4' has uploaded the submission with id '1' to the workshop activity with course module id '32'.,web,103.67.17.14
+"28/07/20, 11:43",D,Assignment: you want everyone to read,Assignment,A submission has been submitted.,The user with id '4' has submitted the submission with id '3' for the assignment with course module id '22'.,phone,103.67.17.14
+"28/07/20, 09:00",D,Assignment: you want everyone to read,Assignment,A submission has been submitted.,The user with id '4' has submitted the submission with id '3' for the assignment with course module id '22'.,phone,103.67.17.14
+"26/07/20, 17:33",M,Assignment: you want everyone to read,Assignment,A submission has been submitted.,The user with id '6' has submitted the submission with id '2' for the assignment with course module id '22'.,web,106.207.223.163
